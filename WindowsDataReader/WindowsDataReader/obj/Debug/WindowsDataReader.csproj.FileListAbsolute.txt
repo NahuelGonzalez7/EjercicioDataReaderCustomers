@@ -1,0 +1,16 @@
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 20-10\WindowsDataReader\WindowsDataReader\bin\Debug\WindowsDataReader.exe.config
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 20-10\WindowsDataReader\WindowsDataReader\bin\Debug\WindowsDataReader.exe
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 20-10\WindowsDataReader\WindowsDataReader\bin\Debug\WindowsDataReader.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 20-10\WindowsDataReader\WindowsDataReader\obj\Debug\WindowsDataReader.csproj.AssemblyReference.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 20-10\WindowsDataReader\WindowsDataReader\obj\Debug\WindowsDataReader.Form1.resources
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 20-10\WindowsDataReader\WindowsDataReader\obj\Debug\WindowsDataReader.Properties.Resources.resources
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 20-10\WindowsDataReader\WindowsDataReader\obj\Debug\WindowsDataReader.csproj.GenerateResource.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 20-10\WindowsDataReader\WindowsDataReader\obj\Debug\WindowsDataReader.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 20-10\WindowsDataReader\WindowsDataReader\obj\Debug\WindowsDataReader.exe
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 20-10\WindowsDataReader\WindowsDataReader\obj\Debug\WindowsDataReader.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 20-10\WindowsDataReader\WindowsDataReader\obj\Debug\WindowsDataReader.frmCustomers.resources
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 20-10\WindowsDataReader\WindowsDataReader\bin\Debug\Datos.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 20-10\WindowsDataReader\WindowsDataReader\bin\Debug\Datos.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 20-10\WindowsDataReader\WindowsDataReader\bin\Debug\Datos.dll.config
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 20-10\WindowsDataReader\WindowsDataReader\obj\Debug\WindowsDataReader.frmDatos.resources
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 20-10\WindowsDataReader\WindowsDataReader\obj\Debug\WindowsDataReader.frmException.resources
